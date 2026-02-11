@@ -88,4 +88,4 @@ gemini-android-skills/
 
 ## License
 
-MIT
+Apache 2.0
