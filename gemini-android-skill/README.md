@@ -170,4 +170,4 @@ The skill activates when you mention:
 
 ## License
 
-MIT
+Apache 2.0
